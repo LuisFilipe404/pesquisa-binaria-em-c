@@ -13,7 +13,7 @@ int qdd_numeros = 0;
 // imprimir o vetor
 void imprimir_vetor(int vetor[qdd_numeros]) {
     int i; // contador
-    printf("\n\nSeu vetor é:\n\n[ ");
+    printf("\n\nSeu vetor eh:\n\n[ ");
     
     // codigo para imprimir o vetor
     for(i = 0; i < qdd_numeros; i++) {
